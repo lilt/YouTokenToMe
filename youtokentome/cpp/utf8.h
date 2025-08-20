@@ -5,6 +5,8 @@
 #include <cassert>
 #include <cstdint>
 
+using std::uint32_t;
+
 namespace vkcom {
 
 constexpr static uint32_t INVALID_UNICODE = 0x0fffffff;
